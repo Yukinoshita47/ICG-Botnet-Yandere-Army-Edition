@@ -17,6 +17,8 @@ ______________________________________
 Coded by Yukinoshita 47
 
 Special Thanks To 504w
+
+Coded by Beizhai
 ______________________________________
 
 Garuda Security Hacker
